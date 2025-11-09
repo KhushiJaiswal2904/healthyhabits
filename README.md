@@ -1,3 +1,7 @@
+#  HealthyHabits — Bilingual Lifestyle Recommendation App (English/Hindi)
+
+A personalized healthcare web app built using **Python + Streamlit** that provides lifestyle, diet, and exercise recommendations in **English and Hindi** for users with conditions like thyroid, sleep apnea, and heart risk.
+
 HealthyHabits - Bilingual Lifestyle Recommendation App (MVP)
 
 Files:
